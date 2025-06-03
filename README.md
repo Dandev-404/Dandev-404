@@ -1,13 +1,13 @@
-# Olá! 👋  
-Eu sou o **Daniel** (também conhecido como **Dandev-404**), estudante de **Ciência da Computação** e apaixonado por tecnologia ☕
+# Hello! 👋  
+I'm **Daniel** (also known as **Dandev-404**), a **Computer Science student** passionate about technology ☕
 
-- 🚀 Gosto de **programação**, **café** e **eletrônica**
-- 📚 Atualmente estudando: **Python**, **Java**, **SQL** e **estrutura de dados**
-- 🥷🏻 Sempre buscando evoluir e dominar as artes secretas da computação
-- 🧠 Interesses: backend, automações, sistemas embarcados
-- 📫 Entre em contato: daniel.55.rx@gmail.com
+- 🚀 I love **programming**, **coffee**, and **electronics**
+- 📚 Currently studying: **Python**, **Java**, **SQL**, and **data structures**
+- 🥷🏻 Always striving to grow and master the secret arts of computer science
+- 🧠 Interests: backend, automation, embedded systems
+- 📫 Contact me: [daniel.55.rx@gmail.com](mailto:daniel.55.rx@gmail.com)
 
-## 💻 Tecnologias que estou usando
+## 💻 Technologies I'm using
 
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java)
